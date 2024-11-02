@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\Methods_task\Methods_task\bin\Debug\net6.0\Methods_task.exe
+C:\Users\ACER\source\repos\Methods_task\Methods_task\bin\Debug\net6.0\Methods_task.deps.json
+C:\Users\ACER\source\repos\Methods_task\Methods_task\bin\Debug\net6.0\Methods_task.runtimeconfig.json
+C:\Users\ACER\source\repos\Methods_task\Methods_task\bin\Debug\net6.0\Methods_task.dll
+C:\Users\ACER\source\repos\Methods_task\Methods_task\bin\Debug\net6.0\Methods_task.pdb
+C:\Users\ACER\source\repos\Methods_task\Methods_task\obj\Debug\net6.0\Methods_task.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Methods_task\Methods_task\obj\Debug\net6.0\Methods_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Methods_task\Methods_task\obj\Debug\net6.0\Methods_task.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Methods_task\Methods_task\obj\Debug\net6.0\Methods_task.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Methods_task\Methods_task\obj\Debug\net6.0\Methods_task.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Methods_task\Methods_task\obj\Debug\net6.0\Methods_task.dll
+C:\Users\ACER\source\repos\Methods_task\Methods_task\obj\Debug\net6.0\refint\Methods_task.dll
+C:\Users\ACER\source\repos\Methods_task\Methods_task\obj\Debug\net6.0\Methods_task.pdb
+C:\Users\ACER\source\repos\Methods_task\Methods_task\obj\Debug\net6.0\Methods_task.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Methods_task\Methods_task\obj\Debug\net6.0\ref\Methods_task.dll
